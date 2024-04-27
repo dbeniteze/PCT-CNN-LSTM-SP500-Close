@@ -10,7 +10,6 @@ Model has been trained with the last 10 years SP500 data (2481 samples)
 ### Evaluation data:
   - Last 250 sp500 days
 
-
 ### Model evaluation:
 
 MAPE: 1.1672470105250004
@@ -23,7 +22,7 @@ Mean absolute error: 0.19320884306330494
 
 R2: 0.8801382291560029
 
-<img src="https://github.com/dbeniteze/sp500_LSTM_predict/blob/main/images/sp500_close_vs_predict.png" width="420">
+<img src="https://github.com/dbeniteze/PCT-CNN-LSTM-SP500-Close/blob/main/images/pct_close_test.png" width="420">
 
 
 ### References:
