@@ -1,5 +1,5 @@
 # PCT-CNN-LSTM-SP500-Close
-PCT SP500 close price using CNN-LSTM neural network
+Percent change SP500 close price using CNN-LSTM neural network
 
 Model has been trained with the last 10 years SP500 data (2481 samples)
 
