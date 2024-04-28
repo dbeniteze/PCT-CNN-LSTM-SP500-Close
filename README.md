@@ -1,7 +1,7 @@
 # PCT-CNN-LSTM-SP500-Close
-Percent change SP500 close price using CNN-LSTM neural network
+Predict percent change SP500 close price using CNN-LSTM neural network
 
-Model has been trained with the last 10 years SP500 data (2481 samples)
+Model has been trained with the last 10 years SP500 data (2481 samples) from Yahoo Finance API
 
 ### Train data: 
   - 80% samples
